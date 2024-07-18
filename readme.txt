@@ -13,3 +13,32 @@ Step 4: To run the script. Type the following line in termninal
 Notice:
 + Use files in JD and CV folders to input to the app
 + Watch demo video first
+
+Background: 
+Interview processes are slow and expensive. Companies spend over $5,000 per hire, most of 
+which is time spent by internal recruiting teams and hiring managers interviewing candidates. 
+The average length of an interview process is approximately 30 days.  
+
+Objective: 
+Build an AI Interview Agent for Candidate Interviewing 
+Develop an AI Interview Agent capable of automatically conducting interviews with candidates in 
+English, focusing on screening and basic technical questions. The Agent should customize 
+questions based on the job requirements and candidate experience, conduct an interview and 
+generate an evaluation report. 
+
+Input: 
+● Job Description: A text document outlining the company information, responsibilities, 
+required skills, and desired experience. 
+● Candidate Profile: A text document about the candidate, including experience, skills, 
+location, education, etc. 
+
+Description: 
+● The Agent should be able to generate questions dynamically based on the job 
+description and candidate profile. This includes technical questions, behavioral 
+questions, and questions related to the candidate’s past experience. Also ask follow up 
+questions based on the candidate’s answer. 
+● The Agent should evaluate candidate responses for relevance, correctness, and 
+completeness. And send a response back to the candidate. 
+● The Agent must include guardrails to ensure it stays within the interviewing context and 
+does not answer unrelated questions from candidates. 
+● The interview can be conducted in a text-based (chat type) format.
