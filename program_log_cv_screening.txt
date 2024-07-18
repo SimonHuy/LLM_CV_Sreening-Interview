@@ -1,0 +1,60 @@
+13-07-2024 18:50:54 - INFO - ---------------huy  Program log------------------
+13-07-2024 18:50:54 - INFO - ----------
+13-07-2024 18:50:54 - INFO - Uploading CV
+13-07-2024 18:50:54 - INFO - ----------
+13-07-2024 18:50:54 - INFO - CV uploaded successfully
+13-07-2024 18:50:54 - INFO - ----------
+13-07-2024 18:50:54 - INFO - Detecting language
+13-07-2024 18:50:56 - INFO - ----------
+13-07-2024 18:50:56 - INFO - Preprocessing Text
+13-07-2024 18:50:56 - INFO - Preprocessed Text Sucessfully
+13-07-2024 18:50:56 - INFO - ----------
+13-07-2024 18:50:56 - INFO - Sending prompt to gemini
+13-07-2024 18:50:59 - INFO - Gemini responsed and score extracted successfully
+13-07-2024 18:50:59 - INFO - ----------
+13-07-2024 18:50:59 - INFO - Comparing threshold and navigate to cv_screening_feedback.py
+13-07-2024 18:52:18 - INFO - ---------------Huy  Program log------------------
+13-07-2024 18:52:18 - INFO - ----------
+13-07-2024 18:52:18 - INFO - Uploading CV
+13-07-2024 18:52:18 - INFO - ----------
+13-07-2024 18:52:18 - INFO - CV uploaded successfully
+13-07-2024 18:52:18 - INFO - ----------
+13-07-2024 18:52:18 - INFO - Detecting language
+13-07-2024 18:52:19 - INFO - ----------
+13-07-2024 18:52:19 - INFO - Preprocessing Text
+13-07-2024 18:52:19 - INFO - Preprocessed Text Sucessfully
+13-07-2024 18:52:19 - INFO - ----------
+13-07-2024 18:52:19 - INFO - Sending prompt to gemini
+13-07-2024 18:52:21 - INFO - Gemini responsed and score extracted successfully
+13-07-2024 18:52:21 - INFO - ----------
+13-07-2024 18:52:21 - INFO - Comparing threshold and navigate to cv_screening_feedback.py
+13-07-2024 18:54:27 - INFO - ---------------Huy  Program log------------------
+13-07-2024 18:54:27 - INFO - ----------
+13-07-2024 18:54:27 - INFO - Uploading CV
+13-07-2024 18:54:27 - INFO - ----------
+13-07-2024 18:54:27 - INFO - CV uploaded successfully
+13-07-2024 18:54:27 - INFO - ----------
+13-07-2024 18:54:27 - INFO - Detecting language
+13-07-2024 18:54:27 - INFO - ----------
+13-07-2024 18:54:27 - INFO - Preprocessing Text
+13-07-2024 18:54:27 - INFO - Preprocessed Text Sucessfully
+13-07-2024 18:54:27 - INFO - ----------
+13-07-2024 18:54:27 - INFO - Sending prompt to gemini
+13-07-2024 18:54:30 - INFO - Gemini responsed and score extracted successfully
+13-07-2024 18:54:30 - INFO - ----------
+13-07-2024 18:54:30 - INFO - Comparing threshold and navigate to cv_screening_feedback.py
+13-07-2024 18:58:54 - INFO - ---------------Huy  Program log------------------
+13-07-2024 18:58:54 - INFO - ----------
+13-07-2024 18:58:54 - INFO - Uploading CV
+13-07-2024 18:58:54 - INFO - ----------
+13-07-2024 18:58:54 - INFO - CV uploaded successfully
+13-07-2024 18:58:54 - INFO - ----------
+13-07-2024 18:58:54 - INFO - Detecting language
+13-07-2024 18:58:54 - INFO - ----------
+13-07-2024 18:58:54 - INFO - Preprocessing Text
+13-07-2024 18:58:54 - INFO - Preprocessed Text Sucessfully
+13-07-2024 18:58:54 - INFO - ----------
+13-07-2024 18:58:54 - INFO - Sending prompt to gemini
+13-07-2024 18:58:58 - INFO - Gemini responsed and score extracted successfully
+13-07-2024 18:58:58 - INFO - ----------
+13-07-2024 18:58:58 - INFO - Comparing threshold and navigate to cv_screening_feedback.py

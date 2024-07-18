@@ -1,0 +1,222 @@
+FEEDBACK REPORT of Huy 
+----------
+Checking Language
+This candidate matched the requried language
+----------
+Checking Matching Score
+Matching score: 85
+Missing Skills: Experience with LLMs, talent acquisition domain knowledge, HR tech platforms, and deployment experience with Azure Data Lake Storage, Azure Databricks, Azure Data Factory, and Synapse.
+Profile Summary: Experienced Data Scientist with a strong foundation in machine learning, data analytics, and NLP. Proven ability to develop and deploy AI models for various applications, including data validation, NER, and environmental research.
+This candidate is eligible because of high mathcing score
+----------
+Moving to second round
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+FEEDBACK REPORT of Huy 
+----------
+Checking Language
+This candidate matched the requried language
+----------
+Checking Matching Score
+Matching score: 85
+Missing Skills: Experience with LLMs, talent acquisition domain knowledge, HR tech platforms, and cloud platforms like AWS or GCP.
+Profile Summary: Experienced Data Scientist with a strong foundation in machine learning, data analytics, and NLP. Proven ability to develop and deploy AI models for various applications, including data validation, NER, and environmental research.
+This candidate is eligible because of high mathcing score
+----------
+Moving to second round
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Technical Question
+----------
+- Can you explain the difference between supervised and unsupervised learning, and provide an example of how you would apply each in a talent acquisition context?
+----------
+I do not know 
+----------
+## Candidate Response Evaluation:
+
+**Relevance:** The candidate's response is not relevant to the question. They have admitted to not knowing the answer. 
+**Relevance Score:** 0
+
+**Correctness:**  The candidate did not provide any information, so it is impossible to assess correctness.
+**Correctness Score:** 0
+
+**Completeness:** The candidate did not provide any information, so the response is incomplete.
+**Completeness Score:** 0
+
+**Overall Score:** 0
+
+**Overall Feedback:** The candidate did not attempt to answer the question. They should have at least tried to explain the concepts of supervised and unsupervised learning, even if they were unsure about the specific talent acquisition applications. 
+
+Behavioral Question
+----------
+- Describe a time when you had to work with a large, complex dataset. How did you approach the challenge, and what were the key steps you took to ensure data quality and integrity?
+----------
+I cant answer
+----------
+## Evaluation of Candidate Response:
+
+**Relevance:** The candidate's response is completely irrelevant to the question. They did not provide any information about working with a large, complex dataset. 
+**Relevance Score:** 0
+
+**Correctness:**  N/A, as the candidate did not provide any information.
+**Correctness Score:** 0
+
+**Completeness:** The candidate's response is completely incomplete. They did not provide any information about their experience.
+**Completeness Score:** 0
+
+**Overall Score:** 0
+
+**Overall Feedback:** The candidate did not answer the question. They need to provide a specific example of working with a large, complex dataset and describe their approach to data quality and integrity. 
+
+Experienced-related Question
+----------
+- In your role as a Data Scientist at Aston University, you mentioned building custom training datasets for Named Entity Recognition (NER). Can you elaborate on the specific challenges you faced and the techniques you employed to improve the accuracy of your NER models?
+----------
+No idea
+----------
+## Evaluation:
+
+**Relevance:** The candidate's response is completely irrelevant to the question. They did not provide any information about building custom training datasets or improving NER model accuracy. 
+**Relevance Score:** 0
+
+**Correctness:**  The candidate's response is not applicable, as they did not provide any information to evaluate for correctness.
+**Correctness Score:** 0
+
+**Completeness:** The candidate's response is completely incomplete. They did not provide any information about the challenges faced or techniques employed.
+**Completeness Score:** 0
+
+**Overall Score:** 0
+
+**Overall Feedback:** The candidate's response demonstrates a lack of understanding of the topic and inability to provide relevant information. They need to study and understand the concepts of NER, custom training datasets, and techniques for improving model accuracy. 
+
+FEEDBACK REPORT of Huy 
+----------
+Checking Language
+This candidate matched the requried language
+----------
+Checking Matching Score
+Matching score: 85
+Missing Skills: Experience with LLMs, talent acquisition domain knowledge, HR tech platforms, and deployment experience with Azure Data Lake Storage, Azure Databricks, Azure Data Factory, and Synapse.
+Profile Summary: Experienced Data Scientist with a strong foundation in machine learning, data analytics, and NLP. Proven ability to develop and deploy AI models for various applications, including data validation, NER, and environmental research.
+This candidate is eligible because of high mathcing score
+----------
+Moving to second round
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Interviewing with an AI Agent Round
+----------
+Technical Question
+----------
+- Can you explain the difference between supervised and unsupervised learning, and provide an example of how you would apply each in a talent acquisition context?
+----------
+Supervised Learning uses labeled data to predict outcomes. In talent acquisition, it can identify successful candidates based on historical data.
+Unsupervised Learning finds patterns in unlabeled data. For example, it can cluster candidates by skills or experiences, helping HR understand candidate profiles better.
+
+----------
+## Evaluation of Candidate Response:
+
+**Relevance:** The candidate's response is relevant to the question, focusing on the differences between supervised and unsupervised learning and providing examples within the context of talent acquisition. 
+**Relevance Score:** 90
+
+**Correctness:** The candidate accurately describes the core concepts of supervised and unsupervised learning. Their examples are also appropriate and demonstrate understanding of the applications.
+**Correctness Score:** 95
+
+**Completeness:** While the candidate provides a good overview, the response could be more comprehensive. It lacks specific examples of algorithms or techniques used in each type of learning. 
+**Completeness Score:** 80
+
+**Overall Score:** 88.3
+
+**Overall Feedback:** The candidate demonstrates a good understanding of supervised and unsupervised learning and their applications in talent acquisition. However, the response could benefit from more specific examples and a deeper exploration of the techniques used in each approach. 
+
+Behavioral Question
+----------
+- Describe a time when you had to work with a large, complex dataset. How did you approach the challenge, and what were the key steps you took to ensure data quality and integrity?
+----------
+I worked on a large dataset to analyze customer behavior. I consolidated data from multiple sources, ensuring consistent formats. I cleaned the data by removing duplicates and handling missing values. To ensure quality and integrity, I performed exploratory analysis, validated against source systems, and implemented anomaly checks. Regular cross-checks with the team ensured the accuracy of the final analysis.
+
+----------
+## Evaluation of Candidate Response:
+
+**Relevance:** The response is relevant to the question, focusing on working with a large dataset and addressing data quality and integrity. 
+**Relevance Score:** 90
+
+**Correctness:** The response accurately describes common data handling practices like data consolidation, cleaning, and validation. 
+**Correctness Score:** 85
+
+**Completeness:** While the response covers key steps, it lacks specific details about the techniques used for each step. For example, it mentions "handling missing values" but doesn't specify the method. 
+**Completeness Score:** 75
+
+**Overall Score:** 83.3
+
+**Overall Feedback:** The candidate demonstrates understanding of data handling principles. However, the response could be strengthened by providing more specific details about the techniques used for data cleaning, validation, and anomaly detection. 
+
+Experienced-related Question
+----------
+- In your role as a Data Scientist at Aston University, you mentioned building custom training datasets for Named Entity Recognition (NER). Can you elaborate on the specific challenges you faced and the techniques you employed to improve the accuracy of your NER models?
+----------
+During my tenure as a Data Scientist at Aston University, I undertook the task of building custom training datasets for Named Entity Recognition (NER). This project presented several challenges, which I addressed using a variety of techniques to enhance the accuracy of the NER models.
+
+----------
+## Evaluation of Candidate Response:
+
+**Relevance:** The response is relevant to the question, addressing the building of custom training datasets for NER and the challenges faced. 
+**Relevance Score:** 90
+
+**Correctness:** The response is generally correct, mentioning the importance of addressing challenges to improve accuracy. However, it lacks specific details about the challenges and techniques used.
+**Correctness Score:** 60
+
+**Completeness:** The response is incomplete. It only mentions the existence of challenges and techniques without providing any concrete examples. 
+**Completeness Score:** 50
+
+**Overall Score:** 66.67
+
+**Overall Feedback:** The response is a good start but lacks depth. It needs to elaborate on the specific challenges encountered and the techniques employed to improve NER model accuracy. Providing concrete examples would significantly enhance the response. 
+
+FINAL ROUND
+----------
+FINAL ROUND
+----------
+FINAL ROUND
+----------
+FINAL ROUND
+----------
+FINAL ROUND
+----------
+Question 1: what is this role?
+----------
+Agent answer: This role is an **AI Engineer** focused on revolutionizing talent acquisition using data and automation. You'll be building and deploying machine learning models to streamline the recruiting process, making it faster, more efficient, and more effective. 
+
+----------
+Question 2: what are the responsibilities?
+----------
+Agent answer: This role has several key responsibilities:
+
+1. **Developing and Implementing AI/ML Models:** You'll be designing, developing, and deploying machine learning models to solve complex business problems related to talent acquisition. This includes collaborating with cross-functional teams, understanding business requirements, and translating them into AI/ML solutions.
+
+2. **Data Collection and Preprocessing:** You'll be responsible for identifying and gathering relevant data from various sources, ensuring data quality and integrity. This involves cleaning, preprocessing, and transforming data to make it suitable for AI/ML model training.
+
+3. **Model Deployment and Integration:** You'll deploy AI/ML models into production environments, ensuring scalability, reliability, and efficiency. This includes collaborating with software engineers and DevOps teams to integrate models into existing systems and applications.
+
+4. **Research and Staying Up-to-Date:** You'll be expected to stay current on the latest advancements in AI/ML technologies, frameworks, and algorithms. This involves conducting research, experimenting with new techniques, and sharing knowledge with the team through documentation, presentations, and training sessions. 
+
+----------
+Question 3: How to build a house?
+----------
+Agent answer: I refuse to answer. 
+
